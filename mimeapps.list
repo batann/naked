@@ -1,0 +1,9 @@
+[Default Applications]
+application/ogg=mpv.desktop;
+application/pdf=org.pwmt.zathura.desktop;
+image/gif=nsxiv.desktop;
+image/jpeg=nsxiv.desktop;
+image/png=nsxiv.desktop;
+image/svg+xml=nsxiv.desktop;
+image/x-png=nsxiv.desktop;
+inode/directory=pcmanfm.desktop;

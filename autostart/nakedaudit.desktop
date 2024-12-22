@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=nakedaudit
+Comment=Check and notity about package manager
+Comment[fr]=Vérifie et signale sur l'état du gestionnaire de paquet
+Exec=nakedaudit
+Terminal=false
+StartupNotify=false
+Hidden=false
